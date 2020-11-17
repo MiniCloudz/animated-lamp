@@ -32,6 +32,11 @@ $ source venv/bin/activate
 $ pip3 install -U -r requirements.txt
 ```
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MiniCloudZ/animated-lamp/tree/master)
+
+
+
+
 ### Environment Variables
 
 Properly setup the environment variables or populate `config.py` with the values. Setting up environment variables is advised as some of the values are sensitive data, and should be kept secret.
